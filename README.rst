@@ -9,7 +9,7 @@
 Abstract
 ========
 
-Purus sit amet luctus venenatis lectus magna fringilla. Condimentum id venenatis a condimentum vitae sapien. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Eget egestas purus viverra accumsan in. Nam aliquam sem et tortor. Donec et odio pellentesque diam volutpat commodo. Odio pellentesque diam volutpat commodo sed egestas. Sit amet dictum sit amet justo. Pellentesque sit amet porttitor eget. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Quis varius quam quisque id diam vel quam elementum. Ornare lectus sit amet est placerat in. Vulputate dignissim suspendisse in est ante. Elit sed vulputate mi sit amet mauris. Egestas sed tempus urna et pharetra pharetra. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus.
+В сферах экологического мониторинга и лесоводства оценка характеристик лесного покрова является ключевым фактором принятия решений. Картирование этих характеристик только на основе полевых измерений затруднительно, поэтому в настоящее время актуально построение моделей, позволяющих на основе имеющихся данных таксации и дополнительных признаков, таких как снимки, полученные спутниками или беспилотниками, получать более точные оценки характеристик леса. В данной работе сравнивается несколько получивших наибольшее распространение в последние годы методов оценки запасов древесины: логические модели, методы геостатистики, подходы частичного обучения. Предложена модификация "Впишу как только придумаю". Предложенный метод не принёс значительного улучшения качества, но работа может быть актуальна как сравнительный анализ использованных методов.
 
 
 Software modules developed as part of the study
